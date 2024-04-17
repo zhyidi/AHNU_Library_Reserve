@@ -18,5 +18,3 @@
  2. 如需使用邮件通知功能，需同步配置AHNU_Library_Reserve.py里的EMAIL_INFO的邮件发送者、邮箱授权码和发件人昵称。
 
  3. debug.txt为日志文件。
-
-如果实在不会可以联系我，直接制作个exe文件发你也可。

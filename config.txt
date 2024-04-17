@@ -1,0 +1,8 @@
+account||此处填写账号
+password||此处填写密码
+sid||ngg3e001
+st||14:30
+et||18:00
+to_nick||张亦迪
+to_user||zhyidi@vip.qq.com
+today_or_tomorrow||today
